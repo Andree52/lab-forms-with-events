@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+   }
+   
+   h1 {
+    font-size: 30px;
+   }
+   
+   ul {
+    padding-left: 30px;
+   }
+   
+   li {
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: blue;
+    background-color: #FFB6C1;
+    padding: 20px 0;
+    margin-bottom: 10px;
+   }
+   
+   li.completed {
+    text-decoration: line-through;
+   }
+   
+   h3 {
+    text-decoration: underline;
+   }
+   
+   p {
+    padding: 20px 0;
+   }
+   
+   .name-header {
+    font-family: 'Fantasy', cursive;
+    color: purple;
+   }
+   
+   ul {
+    list-style-type: none;
+   }
+   
+   ol li {
+    font-weight: bold;
+   }
